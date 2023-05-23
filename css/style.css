@@ -96,8 +96,9 @@ section p {
 
 #cover {
 
-    padding: 0 2em;
+    /* padding: 0 2em; */
     background-color: white;
+    border-style: none;
 
 }
 
@@ -226,11 +227,12 @@ p {
 
 .bio p {
     border-style: none;
-    width: 100%;
+    /* width: 100%; */
 }
 
 footer {
     text-align: right;
+    padding-right: 100px;
 }
 #mobile_menu {
     display:none;
