@@ -1,0 +1,7 @@
+One of the suggestions was to fix my code for the two websites "cooking" and "contact me". It took me a little bit of work, because just changing the file names wasn't letting me push the new changes.
+
+One of the advice I recived was from in class when Cory suggested I make my images on the cooking section all the same, so I implemented that.
+
+Oliver and Adam both suggested I try new fonts, so I did play around a little, and landed on Sans-Serrif. Oliver also mentioned I should add a background gradiant and I thought that was a great idea, so I implemented something that wasn't flashy, but still felt visually appealing. 
+
+Adam also said I should add some padding, and I am pretty sure you said I should add padding too. My solution was to just remove the sillyness that is the nav menu buttons, since they weren't even buttons, just decoration, and let the links stand for themselves against the background image. I am tweaking with some padding in places that feel like there's alot pressure between the text and the borders. 
